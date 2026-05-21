@@ -1,0 +1,11 @@
+# Audio files - too large for GitHub
+*.ogg
+*.wav
+
+# Temporary files
+*_temp.*
+nul
+
+# System files
+.DS_Store
+Thumbs.db
