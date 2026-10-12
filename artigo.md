@@ -92,25 +92,17 @@ A interpretação das falas foi realizada com base na Terapia Cognitivo-Comporta
 
 A partir da análise dos 54 relatos, foram identificadas nove categorias temáticas, organizadas em três grandes grupos de crenças centrais: desvalor, desamparo e desamor. As categorias foram definidas a partir da recorrência de temas nos relatos, considerando tanto o conteúdo explícito das falas quanto as inferências sobre os significados subjacentes. Cada fala foi analisada individualmente e classificada segundo a categoria que melhor representava a dinâmica psicológica expressa.
 
-A Figura 1 apresenta o Quadro 1 com as categorias de análise e crenças associadas.
+A Figura 1 apresenta a distribuição das 54 falas pelas nove categorias temáticas identificadas, enquanto a Figura 2 mostra a distribuição agregada por crença central.
 
-**Figura 1** — Categorias de Análise e Crenças Associadas
+![Figura 1. Distribuição das falas por categoria temática](dados/figuras/fig1_distribuicao_categorias.png)
 
-| Categoria | Crenças Intermediárias | Crença Central |
-|---|---|---|
-| Naturalização da violência | "Sou destinada a sofrer" / "Relacionamentos abusivos são normais" | Desvalor |
-| Ameaça e intimidação | "Estou vulnerável" / "Não tenho segurança" | Desamparo |
-| Humilhação e desvalorização | "Sou inadequada" / "Não tenho valor" | Desvalor |
-| Desvalorização emocional | "Não sou importante" | Desvalor |
-| Dependência e vulnerabilidade | "Não consigo sobreviver sozinha" | Desamparo |
-| Controle coercitivo | "Não tenho autonomia" / "Preciso me submeter" | Desamparo |
-| Minimização da violência | "Preciso suportar para ser amada" | Desamor |
-| Dependência emocional e manipulação | "Sou responsável pelo bem-estar do outro" | Desamor |
-| Busca de autonomia | "Posso ser capaz sem ele" | Desvalor |
+Fonte: Dados da pesquisa (2026).
 
-Fonte: Elaboração própria (2026).
+A distribuição das falas pelas categorias evidenciou predominância da categoria "Desvalorização emocional", com 26 registros, seguida por "Ameaça e intimidação" com 8 registros e "Controle coercitivo" com 5 registros. Essa concentração de relatos na categoria de desvalorização emocional evidencia a centralidade da destruição da autoestima como mecanismo de manutenção do ciclo de violência. A Figura 2 complementa essa análise ao mostrar que a crença central de desvalor foi a mais frequente nos relatos, aparecendo em 34 das 54 falas analisadas.
 
-A distribuição das falas pelas categorias evidenciou predominância da categoria "Desvalorização emocional", com 26 registros, seguida por "Ameaça e intimidação" com 8 registros e "Controle coercitivo" com 5 registros. Essa concentração de relatos na categoria de desvalorização emocional evidencia a centralidade da destruição da autoestima como mecanismo de manutenção do ciclo de violência.
+![Figura 2. Distribuição das falas por crença central](dados/figuras/fig2_distribuicao_crencas.png)
+
+Fonte: Dados da pesquisa (2026).
 
 ### 5.1 Naturalização da Violência e Formação de Crenças de Desvalor
 
