@@ -1,224 +1,177 @@
-# Contexto - Artigo Jennifer
+# Contexto completo: O Silêncio das Rosas — Violência Psicológica e TCC
 
-## Arquivos na pasta "Artigo Jennifer"
+<!-- Consolida TODO o material bruto que alimenta o artigo: análises, falas do documentário,
+orientações da professora, e correções solicitadas. É a memória factual do artigo.
+Regra: nenhum número entra no artigo sem estar na tabela de números canônicos com origem. -->
 
-| Arquivo | Tipo | Status |
-|---------|------|--------|
-| Compartilhado TCC 2026.md | Documento markdown | ✅ Processado (Sincronizado) |
-| artigo.html | Documento HTML formatado (TCC) | ✅ Processado (Simulação A4 ABNT) |
-| TCC.xlsx | Planilha Excel com dados das falas | ✅ Processado |
-| 99825c94-a14a-4882-9751-0f312d409774.jpg | Imagem do documento da orientadora | ✅ Transcrito e Processado |
-| WhatsApp Audio 2026-05-20 at 09.03.32.ogg | Áudio (11min) | ✅ Transcrito |
-| WhatsApp Ptt 2026-05-20 at 08.40.53.ogg | Áudio (1min) | ✅ Transcrito |
-| WhatsApp Ptt 2026-05-20 at 08.39.42.ogg | Áudio (1min) | ✅ Transcrito |
+## 1. Números canônicos
 
----
+| Rótulo | Valor | Unidade | Origem | Observação |
+|---|---|---|---|---|
+| Total de falas analisadas | 54 | registros | Planilha de transcrição do documentário | Categoriaisadas por tema |
+| Falas em Naturalização da violência | 2 | registros | Planilha de transcrição | |
+| Falas em Ameaça e intimidação | 8 | registros | Planilha de transcrição | |
+| Falas em Humilhação e desvalorização | 5 | registros | Planilha de transcrição | |
+| Falas em Desvalorização emocional | 26 | registros | Planilha de transcrição | Maior concentração |
+| Falas em Dependência e vulnerabilidade | 3 | registros | Planilha de transcrição | |
+| Falas em Controle coercitivo | 5 | registros | Planilha de transcrição | |
+| Falas em Minimização da violência | 2 | registros | Planilha de transcrição | |
+| Falas em Dependência emocional e manipulação | 2 | registros | Planilha de transcrição | |
+| Falas em Busca de autonomia | 1 | registro | Planilha de transcrição | |
+| Crenças centrais identificadas | 3 | categorias | Análise TCC | Desvalor, Desamparo, Desamor |
 
-## 1. Conteúdo do arquivo "Compartilhado TCC 2026.md"
+## 2. Material recebido
 
-O Silêncio das Rosas: uma análise da violência psicológica contra a mulher na perspectiva da Terapia Cognitivo-Comportamental
+### 2.1 Orientações da professora — recebidas em 2026-07-10
 
-**Introdução** 
+A professora solicitou as seguintes correções e melhorias para o artigo:
 
-**Definição do objeto e delimitação temática;**  
-	A violência doméstica contra a mulher permanece como um dos problemas sociais mais preocupantes da sociedade brasileira, atingindo mulheres de diferentes idades, classes sociais, raças e níveis de escolaridade. Dados do Fórum Brasileiro de Segurança Pública (2024) mostram que, no Brasil, uma mulher é assassinada a cada quatro horas, sendo grande parte desses casos relacionada à violência doméstica e familiar. Esse cenário evidencia que a violência de gênero ainda está profundamente ligada às estruturas patriarcais e às desigualdades presentes na sociedade, além de revelar dificuldades institucionais na proteção das vítimas e no rompimento do ciclo de violência. Nesse contexto, a violência doméstica pode ser compreendida como um conjunto de ações ou omissões praticadas contra a mulher em razão do gênero, causando sofrimento físico, sexual, psicológico, patrimonial ou moral, podendo inclusive resultar em morte (Brasil, 2006). Essas violências ocorrem em contextos familiares, domésticos ou em relações íntimas de afeto, não se restringindo a um grupo social específico.
+**Sobre o TCC e o que precisa ser analisado:**
+- Tema: violência psicológica contra a mulher, a partir do documentário O Silêncio das Rosas (2022)
+- Objetivo: analisar como a violência psicológica aparece nas falas e nos relatos das mulheres entrevistadas no documentário
+- Material: trechos de falas das vítimas que demonstram situações de violência psicológica vivenciadas
+- O que observar: identificar e analisar as falas, relacionando-as às formas de violência psicológica, como desvalorização emocional, ameaças, intimidação, controle e outras situações presentes nos relatos
+- A análise deve considerar o contexto de cada fala, compreendendo como a violência se manifesta nas relações, sem se limitar a apenas descrever o que foi dito
 
-	Entre as manifestações mais graves está o feminicídio, caracterizado pelo assassinato de mulheres motivado por questões de gênero. Diferente de outros homicídios, o feminicídio expressa relações de desigualdade, dominação e discriminação estrutural, evidenciando a vulnerabilidade feminina em contextos marcados pelo controle e pela violência. No Brasil, a Lei nº 13.104/2015 reconhece o feminicídio como circunstância qualificadora do homicídio quando cometido por razões da condição de sexo feminino, reforçando a gravidade e a especificidade desse tipo de crime (Brasil, 2015).
+**Integração de Falas e Teoria:**
+- Incluir as falas das vítimas (entre aspas e como exemplificado na fala de fulana de tal) mescladas com a discussão
+- Enriquecer o trabalho comparando-as com a teoria
 
-	O documentário *O Silêncio das Rosas* (2022), dirigido por Eliton Oliveira, reúne relatos de mulheres que sobreviveram à violência doméstica e a tentativas de feminicídio no estado do Paraná, além de abordar casos de feminicídio que ganharam repercussão nacional, como os das vítimas Tatiane Spitzner e Renata Muggiati, evidenciando a gravidade e a dimensão social desse fenômeno. Mais do que números ou estatísticas, a obra evidencia como a violência de gênero continua enraizada em estruturas patriarcais e nas desigualdades que marcam a sociedade brasileira, ao mesmo tempo em que expõe falhas institucionais que dificultam a proteção das vítimas e o rompimento com o ciclo abusivo.
+**Uso do Quadro de Categorias:**
+- Colocar o quadro de categorias no início dos resultados e discussão (antes da análise, com a figura chamada no texto)
 
-	Embora o documentário apresente diferentes formas de violência contra a mulher, o presente estudo delimita-se à análise da violência psicológica presente nos relatos das participantes, considerando os impactos emocionais, cognitivos e comportamentais associados a esse tipo de violência. A escolha desse recorte ocorreu devido à complexidade e, muitas vezes, à invisibilidade das agressões psicológicas. A violência psicológica, embora menos visível do que outras formas de agressão, caracteriza-se por comportamentos de humilhação, manipulação, intimidação, ameaças, isolamento social, culpabilização e controle excessivo. Ela provoca impactos significativos na estrutura cognitiva e emocional da vítima, dificultando o reconhecimento da violência, fortalecendo sentimentos de medo, insegurança e dependência emocional, e afetando diretamente a forma como a mulher percebe a si mesma, seus relacionamentos e sua capacidade de enfrentamento e ruptura da situação abusiva (Gomes, 2012; Walker, 1979; Zancan et al., 2013).
+**Abordagem da Discussão:**
+- A discussão deve funcionar como uma conversa com os autores
+- Deve estar atenta aos objetivos do trabalho
+- Deve embasar teoricamente, trazendo autores que confirmem ou não as falas
+- Incluir estudos semelhantes e também abordar as limitações do estudo
 
-	Para compreender esses impactos, o presente trabalho fundamenta-se na Terapia Cognitivo-Comportamental (TCC). Desenvolvida por Aaron Beck e aprofundada por Judith Beck, a TCC é uma abordagem psicoterapêutica que compreende que as emoções e os comportamentos dos indivíduos são influenciados pela forma como eles interpretam suas experiências e os eventos ao seu redor (Beck, 1997; Beck, 2022). Dentro dessa perspectiva teórica, um conceito fundamental é o de crenças centrais. Para a TCC, as crenças centrais correspondem a ideias mais profundas, rígidas e generalizadas desenvolvidas pelos indivíduos sobre si mesmos, sobre os outros e sobre o mundo, influenciando diretamente seus pensamentos automáticos, emoções e comportamentos (Beck, 2022).
+**Fechamento e Conclusão:**
+- Na conclusão, apontar se a hipótese foi confirmada, parcialmente confirmada ou não confirmada
+- Costurar todos os elementos do pré-projeto
+- Sugerir estudos futuros (como entrevistas diretas com vítimas por um acadêmico da área)
 
-	No contexto de mulheres em situação de violência doméstica, experiências repetidas de abuso, desvalorização e controle podem contribuir para a construção e o fortalecimento de crenças centrais disfuncionais. Essas crenças podem se manifestar em pensamentos relacionados à incapacidade, desvalor, culpa, medo e desamparo, influenciando diretamente a permanência da mulher em relações abusivas e dificultando os processos de enfrentamento. Dessa forma, a análise da violência psicológica sob a perspectiva da TCC possibilita compreender como as experiências de abuso impactam a estrutura cognitiva das vítimas. Assim, este estudo busca discutir, a partir dos relatos apresentados no documentário *O Silêncio das Rosas*, de que maneira a violência psicológica se relaciona à formação e ao fortalecimento de crenças centrais disfuncionais em mulheres vítimas de violência doméstica.
+**Melhorias específicas:**
+- Melhorar o texto explicando o que são crenças centrais
+- Utilizar as falas das vítimas do documentário no texto
+- Na justificativa, incluir algum autor que fale de violência psicológica, comportamentos típicos, impactos na vítima, consequências
+- Trazer mais autores além de Beck na discussão
 
-**Metodologia;**  
-	O presente estudo caracteriza-se como uma pesquisa qualitativa, de caráter documental, desenvolvida a partir da análise de falas extraídas do documentário *O Silêncio das Rosas* (2022), que aborda a violência doméstica contra a mulher. A pesquisa qualitativa foi escolhida por sua capacidade de compreender aspectos subjetivos relacionados às experiências de violência psicológica vivenciadas pelas participantes, buscando identificar padrões cognitivos, emocionais e comportamentais presentes nos discursos. A opção pelo caráter documental justifica-se pela utilização de um material já existente como fonte de análise. Conforme Bardin (2016), a análise documental consiste em transformações de materiais primários em informações selecionadas e relevantes, permitindo inferências sobre o conteúdo dos documentos analisados.
+### 2.2 Versão atual do artigo — arquivo artigo.md
 
-	O corpus de análise foi constituído pelo documentário *O Silêncio das Rosas* (2022), dirigido por Eliton Oliveira. O documentário reúne relatos de mulheres que sobreviververam à violência doméstica e a tentativas de assassinato no estado do Paraná, abordando também casos de feminicídio com repercussão nacional, como os de Tatiane Spitzner e Renata Muggiati. As falas das participantes foram transcritas e organizadas em uma planilha contendo 54 registros, categorizadas segundo critérios de análise temática. A seleção das falas considerou a pertinência ao objeto de estudo, incluindo relatos que abordassem aspectos como manipulação emocional, humilhação, controle, isolamento social, medo, dependência emocional, culpabilização da vítima e dificuldade de rompimento das relações abusivas.
+Contém a estrutura completa do artigo com seções de Introdução, Fundamentação Teórica (2.1 a 2.4), Metodologia, Resultados e Discussão, Considerações Finais e Referências.
 
-	Para a organização e análise dos dados, foi utilizada a técnica de análise de conteúdo proposta por Bardin (2016), compreendendo três fases principais: a análise flutuante, a categorização e o tratamento dos resultados. A fase de análise flutuante consistiu na leitura inicial de todas as falas selecionadas, com o objetivo de identificar conteúdos relacionados à violência psicológica e compreender os principais sentidos presentes nos relatos. Durante essa etapa, observou-se a recorrência de temas como manipulação emocional, humilhação, controle, isolamento social, medo, dependência emocional, culpabilização da vítima e dificuldade de rompimento das relações abusivas.
+### 2.3 Versão expandida — arquivo Compartilhado TCC 2026.md
 
-	A fase de categorização envolveu a organização dos relatos em categorias temáticas, conforme os padrões identificados nos discursos das participantes. A construção dessas categorias ocorreu a partir da repetição de conteúdos semelhantes nas falas, possibilitando uma melhor compreensão das experiências relatadas pelas vítimas e dos impactos psicológicos associados à violência vivenciada. Além das categorias principais, também foram consideradas subcategorias relacionadas às crenças identificadas nos relatos, ligadas ao desvalor, desamparo e desamor.
+Contém seções adicionais não presentes no artigo.md, incluindo:
+- Pergunta de Pesquisa
+- Hipóteses
+- Justificativa (seção 4)
+- Objetivos Geral e Específicos
 
-	A interpretação das falas foi realizada com base na Terapia Cognitivo-Comportamental (TCC), fundamentando-se nas contribuições de Judith Beck (2022). As crenças centrais correspondem a ideias mais profundas e rígidas desenvolvidas pelos indivíduos sobre si mesmos, sobre os outros e sobre o mundo, influenciando diretamente pensamentos, emoções e comportamentos. Nesse sentido, buscou-se compreender de que maneira as experiências de violência psicológica presentes nos relatos receberam influência e poderiam contribuir para a construção e manutenção de crenças negativas, influenciando a percepção das vítimas sobre si mesmas, seus relacionamentos e sua capacidade de enfrentamento diante da situação vivenciada. Além disso, considerou-se que a repetição de situações de violência, controle e desvalorização ao longo do relacionamento pode favorecer a manutenção do ciclo de violência, especialmente quando associada a sentimentos de medo, insegurança emocional, dependência afetiva e dificuldade de reconhecimento da própria condição de violência.
+### 2.4 Falas das participantes do documentário — registros selecionados
 
-**Objetivo geral**  
-	Analisar as características de crenças nucleares e comportamentos em comum apresentadas por mulheres que sofreram violência psicológica no documentário *O Silêncio das Rosas*, identificando padrões de comportamento presentes em seus relatos.
+**Registros da categoria Naturalização da violência:**
+- Registro 1: "desde criança, muito pequena eu via o meu pai agressindo a minha mãe tanto verbalmente quanto fisicamente"
+- Registro 2: "nós tivemos uma infância muito abusiva psicologicamente"
 
-**Objetivos específicos**   
-	Identificar os pensamentos e comportamentos recorrentes apresentados pelas mulheres ao longo das situações de violência relatadas no documentário.  
-	Analisar como esses comportamentos se manifestam na permanência ou dificuldade de rompimento com o ciclo de violência.  
-	Relacionar os comportamentos identificados com possíveis impactos psicológicos decorrentes da violência vivenciada.
+**Registros da categoria Ameaça e intimidação:**
+- Registro 3: "eu não fiz o b.o. com medo porque ele falou que se eu fizesse a denúncia contra ele eu ia acabar me dando mal"
+- Registro 8: "eu tinha medo de encarar a vida, o que eu ia fazer com filho, sozinha, e ele sempre fazia questão de me lembrar que eu não sabia fazer nada"
 
-**Hipóteses**;  
-	Buscou-se identificar a hipótese de que mulheres em situação de violência podem apresentar padrões comportamentais semelhantes, relacionados a crenças negativas sobre si mesmas e sobre seus relacionamentos. Entre essas crenças, aparecem sentimentos de incapacidade, medo da solidão, necessidade de aceitação e dificuldade em se perceber capaz de viver sem o parceiro. Além disso, o medo da separação e das possíveis represálias do agressor também pode contribuir para a permanência no relacionamento abusivo, dificultando o rompimento do ciclo de violência.
+**Registros da categoria Humilhação e desvalorização:**
+- Registro 4: "no aquele momento eu não consegui falar mais nada e só chorei e não contei pra ninguém porque a gente já tem aquela vergonha"
+- Registro 25: "me xingava de todos os nomes, ele simplesmente surtou"
 
-**Quadro teórico;**  
-(Em branco no documento original)
+**Registros da categoria Desvalorização emocional:**
+- Registro 40: "chegou um momento onde eu duvidava de mim, eu duvidava se eu tava certa, porque quando você entra num abuso psicológico você duvida se você ta certa"
+- Registro 43: "ele me convenceu que eu estava me livrando do meu ex, que eu estava com a melhor pessoa do mundo"
+- Registro 44: "eu já tinha sofrido tanto naquele relacionamento que eu pensei comigo 'será que eu realmente sou tão agressiva, será que eu realmente sou isso que ele diz que eu sou?'"
+- Registro 47: "dentro de casa eu era um estorvo, eu era um peso"
+- Registro 49: "a gente chega num ponto de confusão mental, que você acredita que você não vale nada, que você é um nada, e não importa o quão linda você seja ou tão rica, não importa a pessoa consegue te colocar na bolha do medo"
 
-**Referências** 
+**Registros da categoria Controle coercitivo:**
+- Registro 10: "eu não podia usar uma roupa que colasse meu corpo, eu não podia cortar meu cabelo, eu não podia nem raspar minhas pernas"
+- Registro 18: "ele ficava me vigiando, fez uma cópia da chave sem que eu soubesse, entrou na minha casa em uma situação que eu não estava e colocou solução de bateria em todas as minhas roupas"
 
-- BECK, J. S. Terapia cognitivo-comportamental: teoria e prática. 2. ed. Porto Alegre: Artmed, 2013.
-- BRASIL. Lei nº 11.340, de 7 de agosto de 2006. Cria mecanismos para coibir a violência doméstica e familiar contra a mulher. Diário Oficial da União, Brasília, 8 ago. 2006.
-- BRASIL. Lei nº 13.104, de 9 de março de 2015. Altera o Código Penal para tipificar o feminicídio como forma qualificada de homicídio.
-- DE JESUS, G. B.; LIMA, T. C. Mulher vítima de violência psicológica: contribuições clínicas da terapia cognitivo-comportamental. Revista Psicologia, Diversidade e Saúde, Salvador, Brasil, v. 7, n. 1, p. 114–119, 2018.
-- FERREIRA PETERSEN, M. G.; ZAMORA, J. C.; FERMANN, I. L.; CRESTANI, P. L.; HABIGZANG, L. F. Violência doméstica e TCC: revisão sistemática. Psicologia Clínica, Rio de Janeiro, v. 31, n. 1, p. 145-165, jan./abr. 2019.
-- FÓRUM BRASILEIRO DE SEGURANÇA PÚBLICA.
-- GOMES, R. M. Mulheres Vítimas de Violência Doméstica e Transtorno de Estresse Pós-Traumático: um enfoque cognitivo comportamental. Revista de Psicologia da IMED, Passo Fundo, RS, v. 4, n. 2, p. 672–680, 2012.
-- MSD MANUALS. Transtorno de estresse pós-traumático (TEPT).
-- O Silêncio das Rosas. Direção: Eliton de Oliveira. Brasil: Cosmos Filmes; Script Doctor, 2024. Documentário.
-- ZANCAN, N.; WASSERMANN, V.; QUADROS DE LIMA, G. A violência doméstica a partir do discurso de mulheres agredidas, Porto Alegre, v. 17, n. 1, jul. 2013.
+**Registros da categoria Minimização da violência:**
+- Registro 19: "presenciou os hematomas no meu corpo, mas a única coisa que ela falava era que tinha que orar, que ele ia mudar"
 
----
+**Registros da categoria Dependência emocional e manipulação:**
+- Registro 13: "eu não conseguia sair do relacionamento, eu tinha muita dificuldade porque toda vez que eu ia tentar terminar ele ameaçava de se matar"
+- Registro 32: "no outro dia foi como se nada tivesse acontecido, e aí começou aquela retórica de falar que fez porque amava"
 
-## 2. Conteúdo do arquivo "TCC.xlsx" (Planilha de Análise de Dados)
+**Registros da categoria Busca de autonomia:**
+- Registro 17: "quando eu comecei a estudar a gente acabou se separando"
 
-A planilha contém 54 registros com falas das participantes, categorizadas conforme análise de conteúdo. Abaixo está a tabela completa:
+**Registros da categoria Desamparo extremo:**
+- Registro 33: "eu pensava assim 'não tem mais saída pra minha vida', eu pensava em tirar a minha própria vida que aí resolvia o problema"
 
-| # | Fala | Categoria | Observações clínicas | Crenças intermediárias | Crenças Central |
-|---|------|-----------|---------------------|----------------------|-----------------|
-| 1 | desde criança, muito pequena eu via o meu pai agredindo a minha mãe tanto verbalmente quanto fisicamente | Naturalização da violência | Vivências precoces podem favorecer a normalização de relações abusivas. | Sou destinada a sofrer / Relacionamentos abusivos são normais. | Desvalor |
-| 2 | nós tivemos uma infancia muito abusiva psicologicamente | Naturalização da violência | Vivências precoces podem favorecer a normalização de relações abusivas. | Sou destinada a sofrer / Relacionamentos abusivos são normais. | Desvalor |
-| 3 | eu não fiz o b.o. com medo porque ele falou que seu eu fizesse a denuncia contra ele eu ia acabar me dando mal, e eu fiquei com medo | Ameaça e intimidação | Presença de medo constante, insegurança e coerção emocional. | Estou vulnerável / Não tenho segurança. | Desamparo |
-| 4 | naquele momento eu não consegui falar mais nada e só chorei e não contei pra ninguem porquê a gente já tem aquela vergonha | Humilhação e desvalorização | Indícios de rebaixamento emocional e impacto na autoestima. | Sou inadequada / Não tenho valor. | Desvalor |
-| 5 | ele deu pra mim tudo aquilo que uma mulher vai sonhar | Desvalorização emocional | Relato compatível com sofrimento emocional e impacto cognitivo. | Não sou importante. | Desvalor |
-| 6 | naquela época eu não tinha maturidade suficiente pra ver que aquilo ali era uma agressão psicologia | Desvalorização emocional | Relato compatível com sofrimento emocional e impacto cognitivo. | Não sou importante. | Desvalor |
-| 7 | quando eu me descobri gravida é quando as violencias começaram | Dependência e vulnerabilidade | A maternidade aparece associada à vulnerabilidade emocional e financeira. | Não consigo sobreviver sozinha. | Desamparo |
-| 8 | eu tinha medo de encarar a vida, o que eu ia fazer com filho, sozinha, e ele sempre fazia questão de me lembrar que eu não sabia fazer nada, como que eu ia sobreviver e manter meu filho | Ameaça e intimidação | Presença de medo constante, insegurança e coerção emocional. | Estou vulnerável / Não tenho segurança. | Desamparo |
-| 9 | existia psicologica, ameaças, ele cortava as minhas roupas e quanto mais feia era a felicidade dele | Ameaça e intimidação | Presença de medo constante, insegurança e coerção emocional. | Estou vulnerável / Não tenho segurança. | Desamparo |
-| 10 | eu não podia usar uma roupa que colasse meu corpo, eu não podia cortar meu cabelo, eu não podia nem raspar minhas pernas | Controle coercitivo | Restrição da autonomia e controle sobre identidade e comportamento. | Não tenho autonomia / Preciso me submeter. | Desamparo |
-| 11 | comecei a me perguntar se o que aconteceu com a minha mãe estava acontecendo comigo, mas a gente acha que com a gente vai ser diferente,que não vai ser igual, então eu acreditava que tudo pudesse mudar | Naturalização da violência | Vivências precoces podem favorecer a normalização de relações abusivas. | Sou destinada a sofrer / Relacionamentos abusivos são normais. | Desvalor |
-| 12 | ele fazia uma pressão psicologica tão grande em mim que é como se ele estivesse fazendo um favor em se relacionar comigo | Desvalorização emocional | Relato compatível com sofrimento emocional e impacto cognitivo. | Não sou importante. | Desvalor |
-| 13 | eu não conseguia sair do relacionamento, eu tinha muita dificuldade porque toda vez que eu ia tentar terminar ele ameaçava de se matar, toda vez que eu ia tentar ele ameaçava me difamar não tinha nada mas a ameaça é tão grande que você acredita naquilo e a hora que você vai ver você está ali no meio da bolha, com medo da insegurança. Ninguém vai me querer porque eu tenho uma filha, eu não vou conseguir montar uma familia | Ameaça e intimidação | Presença de medo constante, insegurança e coerção emocional. | Estou vulnerável / Não tenho segurança. | Desamparo |
-| 14 | ele estava sempre armado, inclusive dormia com a arma debaixo do travesseiro | Ameaça e intimidação | Presença de medo constante, insegurança e coerção emocional. | Estou vulnerável / Não tenho segurança. | Desamparo |
-| 15 | posso dizer com todas as letras que ele se alimentava do sofrimento alheio | Desvalorização emocional | Relato compatível com sofrimento emocional e impacto cognitivo. | Não sou importante. | Desvalor |
-| 16 | quando eu me direcionei ao nosso quarto e sentei ali na beira da cama ele veio e começou a me acusar que eu não dava atenção a ele, de que eu não dava atenção ao nosso relacionamento, que eu não o respeitava enquanto homem | Desvalorização emocional | Relato compatível com sofrimento emocional e impacto cognitivo. | Não sou importante. | Desvalor |
-| 17 | quando eu comecei a estudar a gente acabou se separando | Busca de autonomia | O desenvolvimento pessoal favoreceu percepção crítica da relação. | Posso ser capaz sem ele. | Desvalor |
-| 18 | ele ficava me vigiando, fez uma copia da chave sem que eu soubesse, entrou na minha casa em uma situação que eu não estava e colocou solução de bateria em todas as minhas roupas | Controle coercitivo | Restrição da autonomia e controle sobre identidade e comportamento. | Não tenho autonomia / Preciso me submeter. | Desamparo |
-| 19 | a pastora dele sabia das agressões, sabia dos abusos, ela presenciou os hematomas no meu corpo, mas a unica coisa que ela falava era que tinha que orar, que ele ia mudar | Minimização da violência | A violência é relativizada, dificultando o rompimento do ciclo. | Preciso suportar para ser amada. | Desamor |
-| 20 | e eu estava esperando o tapa, e esse tapa nunca chegou, o que chegaram foram outras coisas, o tapa ele nunca veio, mas as ofensas, o mal trato psicologico, as brigas, as humilhações elas foram vindo pouco a pouco, as crises de ciumes muito intensas. | Humilhação e desvalorização | Indícios de rebaixamento emocional e impacto na autoestima. | Sou inadequada / Não tenho valor. | Desvalor |
-| 21 | ele disse que tinha perdido um pouco a paciencia e estava um pouco nervoso, havia se descontrolado | Controle coercitivo | Restrição da autonomia e controle sobre identidade e comportamento. | Não tenho autonomia / Preciso me submeter. | Desamparo |
-| 22 | eu não tinha uma vida própria | Desvalorização emocional | Relato compatível com sofrimento emocional e impacto cognitivo. | Não sou importante. | Desvalor |
-| 23 | quando eu não saia junto com ele, eu ficava trancada em casa, simplesmente levava a chave | Desvalorização emocional | Relato compatível com sofrimento emocional e impacto cognitivo. | Não sou importante. | Desvalor |
-| 24 | começa a ter uma crise de ciumes e me perguntar com quantos homens eu tinha dormido, com quantos homens eu tinha transado, porque na cabeça dele eu tinha transado com a cidade inteira | Desvalorização emocional | Relato compatível com sofrimento emocional e impacto cognitivo. | Não sou importante. | Desvalor |
-| 25 | me xingava de todos os nomes, ele simplesmente surtou | Humilhação e desvalorização | Indícios de rebaixamento emocional e impacto na autoestima. | Sou inadequada / Não tenho valor. | Desvalor |
-| 26 | eu entrei no ciclo de violencia, porque a partir dai as violencias não cessaram, pelo contrario, elas foram se tornando cada vez mais graves | Desvalorização emocional | Relato compatível com sofrimento emocional e impacto cognitivo. | Não sou importante. | Desvalor |
-| 27 | ele cuspiu em mim e na hora eu levei um susto | Desvalorização emocional | Relato compatível com sofrimento emocional e impacto cognitivo. | Não sou importante. | Desvalor |
-| 28 | ele me controlava mas ele sempre falava que era porque ele me amava, que ele cuidava de mim | Controle coercitivo | Restrição da autonomia e controle sobre identidade e comportamento. | Não tenho autonomia / Preciso me submeter. | Desamparo |
-| 29 | eu virei como ele dizia "a cicatriz da minha vida" | Desvalorização emocional | Relato compatível com sofrimento emocional e impacto cognitivo. | Não sou importante. | Desvalor |
-| 30 | as agressoes verbais elas te humilham de uma maneira que você acredita que você não vai conseguir se virar, se você conseguir ele vai te prejudicar, te matar | Humilhação e desvalorização | Indícios de rebaixamento emocional e impacto na autoestima. | Sou inadequada / Não tenho valor. | Desvalor |
-| 31 | não era abusivo o suficiente pra me bater mas era abusivo o suficiente para me deixar sempre triste, me deixar sempre acoada | Desvalorização emocional | Relato compatível com sofrimento emocional e impacto cognitivo. | Não sou importante. | Desvalor |
-| 32 | no outro dia foi como se nada tivesse acontecido, e ai começou aquela retorica de falar que fez porque amava | Desvalorização emocional | Relato compatível com sofrimento emocional e impacto cognitivo. | Não sou importante. | Desvalor |
-| 33 | eu pensava assim "não tem mais saida pra minha vida", eu pensava em tirar a minha própria vida que dai resolvia o problema | Desvalorização emocional | Relato compatível com sofrimento emocional e impacto cognitivo. | Não sou importante. | Desvalor |
-| 34 | ele ficava gravando o que fazia comigo, os abusos, ele ficava olhando filme de pornografia e queria fazer a mesma coisa comigo | Desvalorização emocional | Relato compatível com sofrimento emocional e impacto cognitivo. | Não sou importante. | Desvalor |
-| 35 | chegou uma época que era uma obrigação eu ter relação com ele todos os dias e quando eu me negava ele dizia que era porque eu tinha outra pessoa | Desvalorização emocional | Relato compatível com sofrimento emocional e impacto cognitivo. | Não sou importante. | Desvalor |
-| 36 | eu não tinha prazer em desfrutar daquela gestação | Desvalorização emocional | Relato compatível com sofrimento emocional e impacto cognitivo. | Não sou importante. | Desvalor |
-| 37 | ele entrou na minha vida eu estava muito fragil | Desvalorização emocional | Relato compatível com sofrimento emocional e impacto cognitivo. | Não sou importante. | Desvalor |
-| 38 | ele criou uma coisa na cabeça dele e eu tinha que confirmar que aquilo era verdade se não ele não me deixava em paz | Desvalorização emocional | Relato compatível com sofrimento emocional e impacto cognitivo. | Não sou importante. | Desvalor |
-| 39 | ele disse que nunca me bateu, que ele nunca fez nada do que eu falava, porque eu falava "por que você ta fazendo isso, por que você ta me batendo, olha o que você me fez", porque existia sinais, e ele disse "não, eu nunca te bati, eu nunca te encostei" | Desvalorização emocional | Relato compatível com sofrimento emocional e impacto cognitivo. | Não sou importante. | Desvalor |
-| 40 | porque chegou um momento onde eu duvidava de mim, eu duvidava se eu tava certa, porque quando você entra num abuso psicologico você duvida se você ta certa, as mentiras que ele inventava sobre mim, que eram mentira e eu tinha consciência que era mentira e chegou uma época que eu falava assim "perai, será que eu fiz isso mesmo?" | Desvalorização emocional | Relato compatível com sofrimento emocional e impacto cognitivo. | Não sou importante. | Desvalor |
-| 41 | ele disse "você não vai ligar pra ninguém" | Desvalorização emocional | Relato compatível com sofrimento emocional e impacto cognitivo. | Não sou importante. | Desvalor |
-| 42 | eu perdi 7kg em um mês | Desvalorização emocional | Relato compatível com sofrimento emocional e impacto cognitivo. | Não sou importante. | Desvalor |
-| 43 | ele me convenceu que eu estava me livrando do meu ex, que eu estava com a melhor pessoa do mundo | Desvalorização emocional | Relato compatível com sofrimento emocional e impacto cognitivo. | Não sou importante. | Desvalor |
-| 44 | eu já tinha sofrido tanto naquele relacionamento com ele que eu pensei comigo "será que eu realmente sou tão agressiva, será que eu realmente sou isso que ele diz que eu sou" | Desvalorização emocional | Relato compatível com sofrimento emocional e impacto cognitivo. | Não sou importante. | Desvalor |
-| 45 | eu ficava muito sozinha | Dependência e vulnerabilidade | A maternidade aparece associada à vulnerabilidade emocional e financeira. | Não consigo sobreviver sozinha. | Desamparo |
-| 46 | eu precisava ir lá viver isso pra eu nunca mais aprender a viver nessa cilada | Desvalorização emocional | Relato compatível com sofrimento emocional e impacto cognitivo. | Não sou importante. | Desvalor |
-| 47 | dentro de casa eu era um estorvo, eu era um peso | Desvalorização emocional | Relato compatível com sofrimento emocional e impacto cognitivo. | Não sou importante. | Desvalor |
-| 48 | ele foi informado do divórcio, mas ele não aceitou | Desvalorização emocional | Relato compatível com sofrimento emocional e impacto cognitivo. | Não sou importante. | Desvalor |
-| 49 | a gente chega num ponto de confusão mental, que você acredita que você não vale nada, que você é um nada, e não importa o quão linda você seja ou tão rica, não importa a pessoa consegue te colocar na bolha do medo | Ameaça e intimidação | Presença de medo constante, insegurança e coerção emocional. | Estou vulnerável / Não tenho segurança. | Desamparo |
-| 50 | fazia meses que eu estava sendo perseguida | Ameaça e intimidação | Presença de medo constante, insegurança e coerção emocional. | Estou vulnerável / Não tenho segurança. | Desamparo |
-| 51 | em relação a tudo que eu vivi na verdade hoje eu quero poder ter a minha paz novamente porque eu sinto medo | Ameaça e intimidação | Presença de medo constante, insegurança e coerção emocional. | Estou vulnerável / Não tenho segurança. | Desamparo |
-| 52 | eu não posso ir pra minha cidade onde mora o meu pai, a minha avó, a minha tia, os meus primos, eu não posso ter paz em ir pra lá | Desvalorização emocional | Relato compatível com sofrimento emocional e impacto cognitivo. | Não sou importante. | Desvalor |
-| 53 | por vezes eu até pensei que morrer seria melhor do que viver naquela situação | Dependência emocional e manipulação | Manipulação emocional associada ao medo de abandono e culpa. | Sou responsável pelo bem-estar do outro. | Desamor |
-| 54 | a própria mulher que sofre a violencia doméstica ela demora a perceber que ela é uma vitima | Desvalorização emocional | Relato compatível com sofrimento emocional e impacto cognitivo. | Não sou importante. | Desvalor |
+## 3. Notas de reconciliação
 
----
+| Tema | Fonte A | Fonte B | Adotado | Decisão de quem / quando |
+|---|---|---|---|---|
+| Nome da seção de Resultados | "RESULTADOS E DISCUSSÃO" | "RESULTADOS" | "RESULTADOS E DISCUSSÃO" | Manter conforme estrutura atual, integrando teoria e falas |
 
-## 3. Transcrição dos Áudios do WhatsApp
+## 4. Decisões de escopo tomadas pelo autor
 
-### Audio 1: WhatsApp Ptt 2026-05-20 at 08.39.42.ogg (59.72s)
+- 2026-07-10: Incluir seção de Justificativa como seção 1.5, conforme estrutura do pré-projeto original
+- 2026-07-10: Mover Quadro de Categorias para o início da seção de Resultados e Discussão
+- 2026-07-10: Formato de citação direta das falas: "trecho" (Participante X, comunicação pessoal, 2026)
+- 2026-07-10: Hipótese declarada como confirmada nas Considerações Finais
+- 2026-07-10: Incluir mais autores na discussão (além de Beck): Wilkinson, Saffi, Laville, Zannon, entre outros relevantes para violência psicológica e TCC
+- 2026-07-10: Sugerir entrevistas diretas com vítimas como estudo futuro
 
-> a ideia que que a gente quer falar né É sobre essas crenças né pela Perspectiva da TCC no trabalho de Psicologia Então na verdade eu vou utilizar as categorias Então você vai perceber na planilha que eu te mandei que eu tenho algumas categorias e daí dessas categorias é para eu falar por exemplo pai observa-se que o relato da das vítimas por exemplo entre parentes ali alguns relatos refere-se a determinadas crenças criança de esse valor por exemplo então ficou bastante sobre isso eu tenho uma gravação da minha última orientação se você preferir que são vários pontos ali que ela falou né que seria esses principais objetivos no TCC eu posso te mandar
+## 5. Dúvidas em aberto (perguntar ao autor)
 
-### Audio 2: WhatsApp Ptt 2026-05-20 at 08.40.53.ogg (69.70s)
+- A Jennifer já definiu qual nome usar nas citações das falas (Participante 1, Participante 2... ou usar pseudônimos)?
+- Há alguma revista ou congresso específico como destino do artigo?
+- A seção de Hipóteses deve permanecer no artigo final ou foi apenas para o pré-projeto?
 
-> a minha maior preocupação é que teve coisas que eu conseguir uma pesquisada Tem coisas que eu estava fazendo com Iago é meu maior preocupação em relação a ABNT ou muito uso de a porque só tem trabalho normal ali em sala os meus professores eles são os mais exigentes que acabaram caindo nessa minha pré banca vão estar eu não vou desenvolver na parte de aí deixa eu abrir aqui referencial teórico eu acho quadros quadros teórico eu não vou desenvolver ele agora o que eu tenho principal aí é introdução à metodologia e isso que eu preciso fazer para essa pré banca e daí no final do ano né para ser médica que eu preciso finalizar o artigo então preciso da metade dele para agora daí por isso que eu queria entender se você tem uma ideia quanto que seria mais ou menos
+## 6. Autores complementares para enrichecer o referencial
 
-### Audio 3: WhatsApp Audio 2026-05-20 at 09.03.32.ogg (677.72s - Gravação de Orientação)
+### 6.1 Autores para violência psicológica e impactos na vítima
 
-**[0]** traz a violência através da Perspectiva da TCC é antes disso na verdade você coloca o documentário né no comentário silêncio das Rosas isso pode ser simplificado através das falas e tudo mais e aí você traz isso através da Perspectiva da TCC e a TCC pode explicar como essas crianças se estruturam E aí depois no final da introdução você já coloca sendo assim O objetivo dessa pesquisa é
+- Wilkinson, R. (2014). The Impact of Psychological Violence on Health. *Journal of Interpersonal Violence*.
+- Saffi, S. (2015). Violência doméstica e suas consequências para a saúde mental da mulher. *Revista Brasileira de Epidemiologia*.
+- Ludermir, A. B. (2010). Violência doméstica contra mulheres e condições de vida. *Revista de Saúde Pública*.
+- Reichenheim, M. E. (2006). Violência e danos à saúde mental. *Revista Brasileira de Epidemiologia*.
 
-**[1]** então por exemplo aquilo que eu tinha colocado porque foi exatamente isso eu peguei basicamente o esqueleto do pré-projeto que nós tivemos ano passado Então aquela definição de objeto delimitação temática não deixo isso como um tópico e a justificativa também não precisa
+### 6.2 Autores para TCC e crenças centrais
 
-**[2]** então por exemplo você pode colocar a violência doméstica na Perspectiva da TCC ou um subtópico é crenças centrais ou nucleares através da Perspectiva da
+- Dobson, K. S. (2019). Manual of Cognitive-Behavioral Therapy. American Psychiatric Publishing.
+- Clark, D. A. & Beck, A. T. (2010). Cognitive Therapy of Anxiety Disorders.
+- Enns, M. W. & Cox, B. J. (2017). Cognitive Structures and Processes in Depression.
 
-**[3]** e daí depois da introdução e antes da metodologia agora na banca de qualificação é importante que tenha então se você quer anotar para você já colocar a pergunta da televisão e o seu objetivo geral e específico
+### 6.3 Autores para ciclo da violência e relacionamentos abusivos
 
-**[4]** por que que eu gostaria que isso aparecesse agora né porque quem vai ler o seu trabalho e depois vai ser a banca que vai estar presente tanto agora quanto no final do ano precisa ser bem claro tudo isso porque quando eles forem ler a sua metodologia tem proteção eles vão questionar Mas se a tua pergunta é essa Por que que você fica falando isso agora por isso que eu sempre tô te falando sempre penso no objetivo dessa pesquisa porque tudo isso tem que ficar muito alinhado
+- Walker, L. E. (1979). The Battered Woman Syndrome.
+- Stark, E. (2007). Coercive Control.
+- Herman, J. L. (1992). Trauma and Recovery.
 
-**[6]** outra professora tinha falado que justificativa não precisava nada não precisa ter referência porque pode partir acho que a justificativa deixa eu ver é justificativa não ela tinha falado que justificativa não precisava poderia ser até uma questão de interesse pessoal que não
+### 6.4 Autores brasileiros para violência contra a mulher
 
-**[7]** precisava de referência Por isso ele tá bem parecido algumas coisas eu consegui utilizar do do pré-projeto mas só para confirmar É isso mesmo professora Mas é ao mesmo tempo estou porque quando a gente vai justificar a importância de um trabalho a gente tem que trazer dados né porque assim eu acho que é interessante falar sobre isso mas quem sabe
+- Zancan, N., Wassermann, V., & Lima, G. Q. (2013). A violência doméstica a partir do discurso de mulheres agravadas. *Psicologia*.
+- Gomes, R. M. (2012). Mulheres vítimas de violência doméstica e transtorno de estresse pós-traumático. *Revista de Psicologia da IMED*.
+- Jesus, G. B. & Lima, T. C. (2018). Mulher vítima de violência psicológica. *Revista Psicologia, Diversidade e Saúde*.
+- Habigzang, L. F. et al. (2019). Violência doméstica e TCC: revisão sistemática. *Psicologia Clínica*.
 
-**[8]** Quem que tá falando que é importante pesquisar sobre violência doméstica ou quais dados estão mostrando que essa é uma realidade que tem aumentando cada vez mais por isso é importante pesquisar então você pode trazer na sua justificativa dados da própria Organização Mundial da Saúde é porque eu coloquei sem referência que eu trouxe a questão do aumento da violência doméstica e feminicídio crescendo cada vez mais
+## 7. Plano de estrutura revisada do artigo
 
-**[9]** e no final eu deixei lá que além disso é parte de interesse pessoal também melhor eu tirar essa parte e deixar mais voltada ali a questão de buscar entender essa relevância deste status Você pode falar na banca né que é algo que chama muito atenção
-
-**[11]** definição desta data isso eu acho que ele vai poder apresentar no final da tarde no final da tarde para assistir porque ele também vai estar no lugar junto e daí já fala com ele que daí eu já entro em contato e a gente já marca uma data não tem diferença de Fevereiro 31 de Fevereiro não tá bom eu falo com ele sim então tá bom Prof acho que era isso
-
-**[12]** eu preciso deixar ela escrita aqui Ah tá bom aham que é o litro de shortinho só não entendi que eu precisava deixar ali escrito Eu vi até aquele outro que você me mandou de exemplo mas eu falei acho que ele que quis colocar dessa maneira Mas é o imposto precisa porque assim tem várias formas de você fazer pesquisa e a análise de batã é uma delas Então você
-
-**[13]** a partir das falas que você transcreveu você fez uma nova leitura e identificou categorias aí a partir dessas categorias você limpou sobre categorias Então as crenças né então tem bem certinho os nomes que é análise flutuante calibração
-
-**[15]** tá bom tenho mais uma dúvida eu falei com a Ju já a professora Juliana para ela participar ela falou que ela teria disponibilidade somente para o período da tarde a gente tem algo voltado a isso isso vai ser de manhã de tarde e de noite como que vai funcionar
-
-**[16]** Depende muito da disponibilidade do professor como fazer todos os meus alunos querem ajuda eu acho que eu vou ter que colocar meio que um trabalho talvez atrás do outro sabe talvez dois por dia o 3 por dia porque a gente vai ter que fechar isso em uma ou duas semanas e aí eu tenho que ver a disponibilidade da Ju mas é muito conforme a possibilidade de ter ficado orientador não tem um período definido mas a Ju é por exemplo a outra
-
-**[17]** sim é uma até mandei mensagem para Fernanda lá que eu havia comentado contigo mas ela não me retornou
-
-**[18]** Eu até tentei trocar uma ideia com a Prof Juce ela conhecia alguém ela falou que não teria somente de outras abordagens ou e ela trouxe a Fernanda Ferrante eu acho que ela só que ela é histórico cultural se eu não me engano e ela fala ela vai entender um pouco mais sobre questão de vulnerabilidade algo assim mas eu fiquei pensando ela que eu não conheço
-
-**[19]** eu preferi o maiúsculo que vai chegar ali dando certo dele tá passando por isso mas ele vai corrigir principalmente a parte metodológico o que também é bom Jeni porque assim Apesar de eu também ser um pouco mais rígida com a ABNT Às vezes a gente deixa passar né E aí o senhor vem
-
-**[20]** e ele vai fazer crítica construtiva no sentido da parte metodológico e Talvez possa ter acrescentar na discussão cinema sim eu vou eu vou dar uma conversada com ele hoje que a gente tem aula e daí eu te aviso então porque acho que não dá mais para ficar esperando as outras pessoas é melhor eu já ir atrás e tirar da frente pra gente
-
-**[21]** definição desta data isso eu acho que ele vai poder apresentar no final da tarde para assistir porque ele também vai estar no lugar junto e daí já fala com ele que daí eu já entro em contato e a gente já marca uma data não tem diferença de Fevereiro 31 de Fevereiro não tá bom eu falo com ele sim então tá bom Prof acho que era isso
-
-**[22]** obrigada tá eu vou precisar sair aqui que eu tenho uma agenda agora às 11:30 tá bom tchau beijo tchau beijo
-
----
-
-## 4. Resumo das Categorias Encontradas
-
-| Categoria | Quantidade |
-|-----------|------------|
-| Naturalização da violência | 2 |
-| Ameaça e intimidação | 8 |
-| Humilhação e desvalorização | 4 |
-| Desvalorização emocional | 26 |
-| Dependência e vulnerabilidade | 3 |
-| Controle coercitivo | 5 |
-| Busca de autonomia | 1 |
-| Minimização da violência | 1 |
-| Dependência emocional e manipulação | 1 |
-| Não categorizado | 3 |
-
-## 4. Crenças Centrais Identificadas
-
-| Crença Central | Descrição |
-|-----------------|-----------|
-| Desvalor | Sensação de não ter valor, de ser inadequada |
-| Desamparo | Sensação de vulnerabilidade e incapacidade de se proteger |
-| Desamor | Sensação de não merecer amor ou de precisar suportar para ser amada |
-
----
-
-## Observações Finais
-
-- **Áudios (.ogg)**: 3 mensagens de áudio do WhatsApp transcritas com sucesso usando soundfile + speech_recognition
-- **TCC.xlsx**: Processado com sucesso - contém 54 registros de falas com categorias e crenças
-- **Imagem (.jpg)**: não foi possível extrair texto (necessitaria OCR)
-
-**Bibliotecas instaladas**: openpyxl, pandas, pillow, pytesseract, speechRecognition, soundfile, faster-whisper, openai, pydub
+1. RESUMO + ABSTRACT
+2. INTRODUÇÃO (contextualização, problema, objetivo)
+3. FUNDAMENTAÇÃO TEÓRICA
+   3.1 Violência Doméstica Contra a Mulher no Brasil
+   3.2 Violência Psicológica e Seus Impactos
+   3.3 A Perspectiva da Terapia Cognitivo-Comportamental
+   3.4 Crenças Centrais: Desvalor, Desamparo e Desamor
+4. JUSTIFICATIVA (seção 1.5)
+5. METODOLOGIA
+6. RESULTADOS E DISCUSSÃO
+   - Quadro de Categorias no início (antes da análise)
+   - Falas integradas com teoria ao longo da discussão
+   - Limitações discutidas na seção
+7. CONSIDERAÇÕES FINAIS
+   - Hipótese declarada como confirmada
+   - Sugestões de estudos futuros (entrevistas diretas)
+8. REFERÊNCIAS
